@@ -43,7 +43,7 @@ SOON Alliance - a group of early SOON token holders who received their tokens th
 |:----------:|:----------:|
 | SOON Alliance | [0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2](https://tonscan.io/accounts/0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2) |
 
-**SOON Alliance's members:**
+**SOON Alliance members:**
 
 | Telegram | Wallet address:|
 |:----------:|:----------:|
