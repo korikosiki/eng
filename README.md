@@ -1,26 +1,26 @@
 <p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/logo.png' width='300'></p>
 
-| [Главная страница](https://soontoken.github.io) | [Дорожная карта](/roadmap) | [Вестинг](/vesting/) | [Tokenomics](https://docs.google.com/spreadsheets/d/1Jj3XlLC6MkDi6-cvHPL6PpJ5IXD96dJd0UckqNrWv-A/edit#gid=0) | [Crowdsale](/Crowdsale/) | [Аудит](/audits/) | [docs](/docs/) |
+| [Main page](https://soontoken.github.io) | [Roadmap](/roadmap) | [Vesting](/vesting/) | [Tokenomics](https://docs.google.com/spreadsheets/d/1Jj3XlLC6MkDi6-cvHPL6PpJ5IXD96dJd0UckqNrWv-A/edit#gid=0) | [Crowdsale](/Crowdsale/) | [Audit](/audits/) | [docs](/docs/) |
 
-# Токен SOON на блокчейне Everscale
+# Token SOON on the Everscale blockchain
 
-* [Токен SOON](#токен-soon)
+* [SOON Tiken](#токен-soon)
 * [SOON Alliance](#soon-alliance)
-* [Партнеры](#партнеры)
-* [Контакты](#контакты)
+* [Partners](#партнеры)
+* [Contact](#контакты)
 
-## Токен SOON
+## SOON Token
 
-SOON - Мем-токен типа TIP-3/Broxus на блокчейне Everscale.
+SOON - Meme-token TIP-3/Broxus type on the Everscale blockchain.
 
 |  | Main details |
 |:----------:|:----------:|
 | Address | [0:A88B380064DAD1520F09E6ED1162CE79272503A6D443FC938FAEAABD135C294D](https://tonscan.io/accounts/0:A88B380064DAD1520F09E6ED1162CE79272503A6D443FC938FAEAABD135C294D) |
-| Total supply | Конечная эмиссия токена SOON будет определена после проведения Crowdsale |
+| Total supply | SOON token final issuance will be determined after Crowdsale |
 | Decimals | 4 |
 
 
-Токен SOON появился как локальный мем, в телеграмм-чатах [@AnalyticsEverscale](https://t.me/AnalyticsEverscale) и [@tonbridge_official](https://t.me/tonbridge_official).
+SOON token appeared as a local meme, in telegram chats [@AnalyticsEverscale](https://t.me/AnalyticsEverscale) и [@tonbridge_official](https://t.me/tonbridge_official).
 
 <p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/C66AC453-3F69-434A-85A7-5282E87BEB93.jpeg' width='300'>
 <img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/E30CAC5B-E940-4359-9EE6-6C11B88194ED.jpeg' width='300'>
@@ -29,23 +29,23 @@ SOON - Мем-токен типа TIP-3/Broxus на блокчейне Everscale
 
 ## SOON Alliance
 
-SOON Alliance - группа первых держателей токена SOON, получивших свои токены с помощью  AirDrop и объединившихся для того, чтоб совместно продвигать токен SOON.
+SOON Alliance - a group of early SOON token holders who received their tokens through AirDrop and joined together to promote SOON
 
-**Создатель токена:**
+**Token's creator:**
 
-| Telegram | Адрес кошелька |
+| Telegram | Wallet address: |
 |:----------:|:----------:|
 | [@andrew_vinter](https://t.me/andrew_vinter) | [0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980](https://tonscan.io/accounts/0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980) |
 
-**Адрес мульти-сигнатурного кошелька SOON Alliance:**
+**SOON Alliance multi-signature wallet address:**
 
-| Telegram | Адрес кошелька |
+| Telegram | Wallet address: |
 |:----------:|:----------:|
 | SOON Alliance | [0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2](https://tonscan.io/accounts/0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2) |
 
-**Участники SOON Alliance:**
+**SOON Alliance's members:**
 
-| Telegram | Адрес кошелька |
+| Telegram | Wallet address:|
 |:----------:|:----------:|
 | [@andrew_vinter](https://t.me/andrew_vinter) | [0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980](https://tonscan.io/accounts/0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980) |
 | [@SOKOL491](https://t.me/SOKOL491) | [0:cd26b47ebf79788924a057c39efd639107c3ad18b5de67bf5f3eb14812214433](https://tonscan.io/accounts/0:cd26b47ebf79788924a057c39efd639107c3ad18b5de67bf5f3eb14812214433) |
@@ -56,18 +56,18 @@ SOON Alliance - группа первых держателей токена SOON
 | [@tontikiton](https://t.me/tontikiton) | [0:34c169f99c6a8a1d2d290e5e50ed074f1faeb339a6fc4a3cdd647659335d9820](https://tonscan.io/accounts/0:34c169f99c6a8a1d2d290e5e50ed074f1faeb339a6fc4a3cdd647659335d9820) |
 | [@Angel_108](https://t.me/Angel_108) | [0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea](https://tonscan.io/accounts/0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea) |
 
-## Партнеры
+## Partners
 
 <p align='center'>
 <a href='https://gramkit.org/ru'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/gramkit1w.png' width='150'></a>
 <a href='https://checkmate-labs.org'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/Chess-Game.png' width='150'></a>
 </p>
 
-## Контакты
+## Contact
 
-Telegram чат - [@soon_chat](https://t.me/soon_chat)
+Telegram chat - [@soon_chat](https://t.me/soon_chat)
 
-Telegram канал - [@SOONtoken](https://t.me/SOONtoken)
+Telegram channel - [@SOONtoken](https://t.me/SOONtoken)
 
 Twitter - [@SOON_token](https://twitter.com/SOON_token)
 
