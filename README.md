@@ -4,7 +4,7 @@
 
 # Token SOON on the Everscale blockchain
 
-* [SOON Tiken](#токен-soon)
+* [SOON Token](#токен-soon)
 * [SOON Alliance](#soon-alliance)
 * [Partners](#партнеры)
 * [Contact](#контакты)
